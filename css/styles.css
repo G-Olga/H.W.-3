@@ -263,7 +263,7 @@ body {
 
 .wwd {
   padding-top: 94px;
-  padding-bottom: 167px;
+  padding-bottom: 94px;
 }
 
 .wwd-list {
@@ -281,7 +281,7 @@ body {
 
 .our-team {
   padding-top: 94px;
-  padding-bottom: 21px;
+  padding-bottom: 94px;
   background-color: var(--background-color-medium);
 }
 
@@ -420,5 +420,4 @@ body {
 }
 
 .item {
-  margin-left: 24px;
 }
